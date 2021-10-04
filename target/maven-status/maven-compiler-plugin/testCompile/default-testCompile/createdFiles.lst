@@ -1,0 +1,4 @@
+stepDefinitions\AccountsPage.class
+AppHooks\ApplicationHooks.class
+stepDefinitions\LoginSteps.class
+TestRunner\MyTestRunner.class
