@@ -1,4 +1,5 @@
-F:\FinalFrameworkForPractice\src\test\java\AppHooks\ApplicationHooks.java
-F:\FinalFrameworkForPractice\src\test\java\stepDefinitions\LoginSteps.java
+F:\FinalFrameworkForPractice\src\test\java\parallel\AccountsPage.java
+F:\FinalFrameworkForPractice\src\test\java\parallel\ApplicationHooks.java
 F:\FinalFrameworkForPractice\src\test\java\TestRunner\MyTestRunner.java
-F:\FinalFrameworkForPractice\src\test\java\stepDefinitions\AccountsPage.java
+F:\FinalFrameworkForPractice\src\test\java\parallel\ParallelRun.java
+F:\FinalFrameworkForPractice\src\test\java\parallel\LoginSteps.java

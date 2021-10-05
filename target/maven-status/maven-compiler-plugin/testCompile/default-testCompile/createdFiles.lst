@@ -1,4 +1,5 @@
-stepDefinitions\AccountsPage.class
-AppHooks\ApplicationHooks.class
-stepDefinitions\LoginSteps.class
+parallel\LoginSteps.class
 TestRunner\MyTestRunner.class
+parallel\ParallelRun.class
+parallel\AccountsPage.class
+parallel\ApplicationHooks.class
