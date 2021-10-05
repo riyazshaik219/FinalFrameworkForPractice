@@ -1,4 +1,4 @@
-package AppHooks;
+package parallel;
 
 import com.qa.factory.DriverFactory;
 import com.qa.utils.ConfigReader;
